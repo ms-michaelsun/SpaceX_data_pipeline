@@ -32,14 +32,6 @@ The pipeline consists of the following components:
 
 ## Setup and Installation
 
-### Prerequisites
-- Python 3.8+
-- Snowflake account
-- dbt
-- Singer
-
-### Run
-
 This is an opinionated setup. You might not need to do it the way I do.
 Each folder has a separate virtual requirements and virtual environment.
 This helps us keep the dependencies separate.
