@@ -4,7 +4,7 @@
 This project implements a modern data engineering pipeline that extracts data from the SpaceX API, loads it into Snowflake data warehouse using Singer framework, and transforms it using dbt (data build tool). The pipeline enables analysis of SpaceX launches, rockets, and missions data in a structured and scalable way.
 
 ## Architecture
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](/data-arq.png)
 
 The pipeline consists of the following components:
 
